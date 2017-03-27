@@ -21,6 +21,9 @@ class ViewController: UIViewController {
         print("1234".uppercased())
 
         print("1234".characters)
+        
+        print("BLA BL A")
+
 
     }
 
