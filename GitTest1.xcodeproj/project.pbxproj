@@ -12,6 +12,7 @@
 		1D608ED51E88F5D700803734 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D608ED31E88F5D700803734 /* Main.storyboard */; };
 		1D608ED71E88F5D700803734 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D608ED61E88F5D700803734 /* Assets.xcassets */; };
 		1D608EDA1E88F5D700803734 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D608ED81E88F5D700803734 /* LaunchScreen.storyboard */; };
+		1D608EE21E89193400803734 /* TestObj.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D608EE11E89193400803734 /* TestObj.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1D608ED61E88F5D700803734 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D608ED91E88F5D700803734 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D608EDB1E88F5D800803734 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D608EE11E89193400803734 /* TestObj.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestObj.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				1D608ECF1E88F5D700803734 /* AppDelegate.swift */,
 				1D608ED11E88F5D700803734 /* ViewController.swift */,
+				1D608EE11E89193400803734 /* TestObj.swift */,
 				1D608ED31E88F5D700803734 /* Main.storyboard */,
 				1D608ED61E88F5D700803734 /* Assets.xcassets */,
 				1D608ED81E88F5D700803734 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				1D608ED21E88F5D700803734 /* ViewController.swift in Sources */,
 				1D608ED01E88F5D700803734 /* AppDelegate.swift in Sources */,
+				1D608EE21E89193400803734 /* TestObj.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				1D608EE01E88F5D800803734 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
