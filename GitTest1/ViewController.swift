@@ -23,6 +23,9 @@ class ViewController: UIViewController {
         print("1234".characters)
         
         print("BLA BL A")
+        
+        print("BLA BL A")
+
 
 
     }
